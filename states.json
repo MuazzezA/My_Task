@@ -1,0 +1,26 @@
+{
+  "states": [
+    {
+      "name": "Turkey",
+      "cities": [
+        "Ankara",
+        "Izmir",
+        "Bolu"
+      ]
+    },
+    {
+      "name": "ABD",
+      "cities": [
+        "New York",
+        "Boston"
+      ]
+    },
+    {
+      "name": "France",
+      "cities": [
+        "Paris",
+        "Marsilya"
+      ]
+    }
+  ]
+}
