@@ -1,0 +1,81 @@
+{
+"products":[
+{
+  "name": "shoes aa",
+  "category": "Shoes",
+  "state": "Turkey",
+  "city" : "Ankara",
+  "company": "AA company"
+},
+{
+  "name": "computer bb",
+  "category": "Computer",
+  "state": "ABD",
+  "city" : "New York",
+  "company": "BB company"  
+},
+{
+  "name": "bag cc",
+  "category": "Bag",
+  "state": "Turkey",
+  "city" : "Izmir",
+  "company": "CC company"
+},
+{
+  "name": "bag cc",
+  "category": "Bag",
+  "state": "Turkey",
+  "city" : "Izmir",
+  "company": "CC company"
+},
+{
+  "name": "computer AA",
+  "category": "Computer",
+  "state": "ABD",
+  "city" : "Boston",
+  "company": "AA company"
+},
+{
+  "name": "shoes AA",
+  "category": "Shoes",
+  "state": "France",
+  "city" : "Paris",
+  "company": "AA company"
+},
+  {
+  "name": "shoes BB",
+  "category": "Shoes",
+  "state": "France",
+  "city" : "Marsilya",
+  "company": "BB company"
+},
+  {
+  "name": "bag BB",
+  "category": "Bag",
+  "state": "France",
+  "city" : "Paris",
+  "company": "BB company"
+},
+{
+  "name": "shoes AA",
+  "category": "Shoes",
+  "state": "Turkey",
+  "city" : "Bolu",
+  "company": "AA company"
+},
+{
+  "name": "shoes CC",
+  "category": "Shoes",
+  "state": "Turkey",
+  "city" : "Ankara",
+  "company": "CC company"
+},
+{
+  "name": "computer CC",
+  "category": "Computer",
+  "state": "Turkey",
+  "city" : "Izmir",
+  "company": "CC company"
+}
+]
+}
